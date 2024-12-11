@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\pages\\weathercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\pages\\weathercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|c:\\users\\matti\\source\\repos\\blazorwebassemblywapp\\blazorwebassemblywapp\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6E8F2CD-DE00-4022-B8B5-60A7078B428B}|BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP.csproj|solutionrelative:blazorwebassemblywapp\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\App.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\App.razor",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\App.razor",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:36:04.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\_Imports.razor",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:36:02.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:31:32.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:29:50.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-11T10:50:09.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-11T10:47:34.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:58:50.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFVwEAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-11T13:34:53.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Pages\\WeatherComponent.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\Pages\\WeatherComponent.razor",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Pages\\WeatherComponent.razor",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\Pages\\WeatherComponent.razor",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T10:31:03.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Program.cs",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:58:32.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:57:43.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "BlazorWebAssemblyWAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Matti\\source\\repos\\BlazorWebAssemblyWAPP\\BlazorWebAssemblyWAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "BlazorWebAssemblyWAPP\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-11T12:52:45.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

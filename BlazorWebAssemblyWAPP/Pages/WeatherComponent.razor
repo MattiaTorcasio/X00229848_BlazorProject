@@ -1,0 +1,87 @@
+﻿@page "/weather"
+@inject HttpClient Http
+
+<h3>Weather Location Info</h3>
+
+<p>Enter a city to get infos about it:</p>
+<input type="text" @bind="city" placeholder="Enter city" />
+<button @onclick="GetWeather" disabled="@isLoading">Get Location</button>
+
+@if (isInvalidInput)
+{
+    <p style="color: red;">Please enter a valid city name.</p>
+}
+
+@if (isLoading)
+{
+    <p>Loading...</p>
+    <div class="spinner"></div>
+}
+
+@if (locationData != null && !isLoading)
+{
+    <div class="location-info">
+        <h4>Location Information:</h4>
+        <p><strong>City:</strong> @locationData.name</p>
+        <p><strong>Region:</strong> @locationData.region</p>
+        <p><strong>Country:</strong> @locationData.country</p>
+        <p><strong>Latitude:</strong> @locationData.lat</p>
+        <p><strong>Longitude:</strong> @locationData.lon</p>
+    </div>
+
+}
+else if (isError && !isLoading)
+{
+    <p style="color: red;">Error retrieving location data. Please try again.</p>
+}
+
+@code {
+    private string city;
+    private Location locationData;
+    private bool isError = false;
+    private bool isInvalidInput = false;
+    private bool isLoading = false;
+
+    private async Task GetWeather()
+    {
+        
+        if (string.IsNullOrWhiteSpace(city))
+        {
+            isInvalidInput = true;
+            return;
+        }
+
+      
+        isInvalidInput = false;
+        isError = false;
+        isLoading = true;
+
+        try
+        {
+            var response = await Http.GetFromJsonAsync<ApiResponse>($"https://api.weatherapi.com/v1/current.json?key=eb5f33a4acca4bd9b49153432241012&q={city}&aqi=no");
+            locationData = response.location;
+        }
+        catch
+        {
+            isError = true;
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+
+    public class ApiResponse
+    {
+        public Location location { get; set; }
+    }
+
+    public class Location
+    {
+        public string name { get; set; }
+        public string region { get; set; }
+        public string country { get; set; }
+        public double lat { get; set; }
+        public double lon { get; set; }
+    }
+}
